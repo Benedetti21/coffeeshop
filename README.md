@@ -1,4 +1,6 @@
-# coffeeshop
+# Coffee Shop with QR 
+
+
 
 heroku link: https://mycoffeeshopp.herokuapp.com/#menu
 
